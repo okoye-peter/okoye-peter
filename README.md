@@ -1,7 +1,7 @@
 # Hey, I'm Okoye Peter 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-okoye--peter-181717?style=flat&logo=github)](https://github.com/okoye-peter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/okoye-peter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/okoye-peter](https://www.linkedin.com/in/peter-okoye-02919820a/))
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat)](mailto:your@email.com)
 
 ---
@@ -64,5 +64,5 @@ Full Stack & Mobile Developer based in Lagos, Nigeria 🇳🇬. I build producti
 
 ## 🤝 Let's Connect
 
-📧 **Email**: your@email.com
-💼 **LinkedIn**: [linkedin.com/in/okoye-peter](https://linkedin.com/in/okoye-peter)
+📧 **Email**: okoyepeter039@email.com
+💼 **LinkedIn**: [linkedin.com/in/okoye-peter]([https://linkedin.com/in/okoye-peter](https://www.linkedin.com/in/peter-okoye-02919820a/))
