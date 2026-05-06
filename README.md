@@ -45,23 +45,6 @@ Full Stack & Mobile Developer based in Lagos, Nigeria 🇳🇬. I build producti
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Project Name](https://github.com/okoye-peter) | What it does in one line | Next.js, Node, PostgreSQL |
-| [Project Name](https://github.com/okoye-peter) | What it does in one line | Flutter, Dart |
-| [Project Name](https://github.com/okoye-peter) | What it does in one line | React Native |
-
----
-
-## 📊 GitHub Stats
-
-![Okoye Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okoye-peter&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okoye-peter&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email**: okoyepeter039@email.com
